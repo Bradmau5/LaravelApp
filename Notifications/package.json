@@ -1,0 +1,8 @@
+{
+  "lockfileVersion": 1,
+  "dependencies": {
+    "express": "^4.16.2",
+    "redis": "^2.8.0",
+    "socket.io": "^2.0.4"
+  }
+}
